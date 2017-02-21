@@ -1,0 +1,10 @@
+{
+  "name": "webpack-import-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jakwuh <jakwuh@yandex-team.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
+}
